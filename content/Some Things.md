@@ -1,5 +1,5 @@
 ---
-title: Iteration & Gut Feeling
+title: Some Things
 date: 2024-12-18
 draft: false
 tags:
