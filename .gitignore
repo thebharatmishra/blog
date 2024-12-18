@@ -1,0 +1,64 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+/resources/
+/.hugo_build.lock
+
+# Executables (if applicable)
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Optional: Ignore temporary files and OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Other optional ignores based on your setup
+/dist/
+tmp/
+
+
+# Binaries
+/bin/
+/out/
+
+# Dependency directories
+/vendor/
+
+# Go workspace files
+*.test
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Coverage files
+*.out
+*.cov
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store          # macOS
+Thumbs.db         # Windows
+ehthumbs.db       # Windows
+
+# Go module cache (if applicable)
+go.sum
+
+# Temporary files
+*.tmp
+*.log
+
+# Ignore any configuration files that may contain sensitive information
+.env
+
+# Ignore any other build artifacts or temporary files as needed
