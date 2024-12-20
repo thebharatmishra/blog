@@ -62,3 +62,5 @@ go.sum
 .env
 
 # Ignore any other build artifacts or temporary files as needed
+images.py
+megascript.ps1
