@@ -56,11 +56,11 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Blog - Parallel Intersect"
+    title = "Diary"
 
     [languages.en.params]
-      subtitle = "A simple, retro Blog by Parallel Intersect"
-      owner = ""
+      subtitle = "These posts are made solely by Bharat Mishra as way to document his thoughts. Any sort of feedback is appreciated."
+      owner = "Bharat Mishra"
       keywords = ""
       copyright = ""
       menuMore = "Show more"
@@ -74,7 +74,7 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Blog - Parallel Intersect"
+        logoText = "Diary"
         logoHomeLink = "/"
 
       [languages.en.menu]
